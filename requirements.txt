@@ -1,0 +1,6 @@
+pyqtgraph==0.10.0
+numba==0.42.0+0.gf6c8602da.dirty
+matplotlib==2.1.2
+numpy==1.15.4
+scipy==1.0.0
+PyQt4==4.11.4
